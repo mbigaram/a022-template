@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box
+}
+body {
+    text-align: center;
+    
+}
+
+button {
+    border: 2px solid green;
+    
+
+}
+
+button:hover{
+    background: red;
+    color: white;
+   
+}
+button:active{
+    background: green;
+    color: black;
+
+}
