@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    position: stick;
+    border: 1px solid black;
+
+}
+
+main{
+    border: 1px solid magenta;
+
+}
+
+footer{
+    border: 1px solid black;
+    margin-top: 100%;
+}

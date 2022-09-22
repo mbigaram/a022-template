@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box
+}
+
+/*Exercicio 1*/
+
+
+/* #F3A83C, #387D22 */
+
+h1,h2,h3,h4,h5,h6,p {
+    color:#F3A83C;
+    margin-bottom:3%
+}
+.texto-com-background {
+    background-color:#FFFE55;
+}
+#texto-com-outra-cor {
+    color:#387D22;
+} 
